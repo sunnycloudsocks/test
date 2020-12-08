@@ -1,5 +1,5 @@
 body {
-  background-color: #e084b5ff;
+  background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
   font-family: 'Montserrat', sans-serif;
 }
 .title {
