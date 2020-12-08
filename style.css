@@ -1,4 +1,11 @@
+html {
+  height: 100%;
+}
 body {
+  height: 100%;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
   background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
   font-family: 'Montserrat', sans-serif;
 }
