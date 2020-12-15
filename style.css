@@ -20,4 +20,6 @@ body {
   padding-top: 10%;
   user-select: none;
 }
-
+.play {
+  color: white;
+}
