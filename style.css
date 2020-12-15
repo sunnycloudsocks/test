@@ -22,4 +22,11 @@ body {
 }
 .play {
   color: #edd3ed;
+  font-size: 6em;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  padding-top: 10%;
+  user-select: none;
 }
