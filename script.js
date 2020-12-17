@@ -1,5 +1,5 @@
 var play = document.getElementByClassName("play");
-document.getElementById("play").style.backgroundColor = "red";
+document.getElementById("play").style.color = "red";
 play.addEventListener("mouseenter", enlarge);
 function enlarge(){
   document.getElementByClassName("play").className = "enlargePlay";
