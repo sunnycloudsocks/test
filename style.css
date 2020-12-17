@@ -40,5 +40,5 @@ body {
 h2:hover {
   animation-name: test;
   animation-duration: 0.3s;
-  fill-mode: forwards;
+  animation-fill-mode: forwards;
 }
