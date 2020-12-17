@@ -21,9 +21,9 @@ body {
   font-family: 'Montserrat', sans-serif;
 }
 @keyframes test {
-  44% {font-size: 8.4em}
-  77% {font-size: 7.5em}
-  100% {font-size: 1em}
+  44% {font-size: 1.4em}
+  77% {font-size: 1.25em}
+  100% {font-size: 1.3em}
 }
 .play {
   color: #e2cad7;
