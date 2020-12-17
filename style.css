@@ -46,7 +46,7 @@ body {
 }
 .play :hover:after {
   animation-name: bgi;
-  animation-duration: 5s;
+  animation-duration: 15s;
   animation-fill-mode: forwards;
 }
   
