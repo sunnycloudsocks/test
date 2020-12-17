@@ -38,7 +38,7 @@ body {
   background-color: red;
 }
 
-h2:hover {
+span:hover {
   animation-name: test;
   animation-duration: 0.3s;
   animation-fill-mode: forwards;
