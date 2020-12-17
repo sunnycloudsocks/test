@@ -30,4 +30,12 @@ body {
   padding-top: 10%;
   user-select: none;
   font-family: 'Montserrat', sans-serif;
+  animation-name: test;
+  animation-duration: 6s;
+}
+
+@keyframes test {
+  44% {font-size: 8.4em}
+  77% {font-size: 7.5em}
+  100% {font-size: 7.8em}
 }
