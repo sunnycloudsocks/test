@@ -36,7 +36,7 @@ body {
   user-select: none;
   font-family: 'Montserrat', sans-serif;
   animation-name: test;
-  animation-duration: 1s;
+  animation-duration: 0.3s;
 }
 
 
