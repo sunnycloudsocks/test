@@ -25,9 +25,9 @@ body {
   77% {font-size: 1.25em}
   100% {font-size: 1.3em}
 }
-@keyframes other {
+/*@keyframes other {
   100% {font-size: 1em}
-}
+}*/
 .play {
   color: #e2cad7;
   font-size: 30px;
@@ -38,10 +38,10 @@ body {
   padding-top: 10%;
   user-select: none;
   font-family: 'Montserrat', sans-serif;
-  animation-name: other;
+ /*animation-name: other;
   animation-duration: 15s;
   animation-fill-mode: forwards;
-}
+}*/
 .play :hover {
   animation-name: big;
   animation-duration: 0.3s;
