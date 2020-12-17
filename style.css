@@ -35,11 +35,9 @@ body {
   padding-top: 10%;
   user-select: none;
   font-family: 'Montserrat', sans-serif;
-  animation-name: test;
-  animation-duration: 0.3s;
 }
 
-.play h1:hover {
+h1:hover {
   animation-name: test;
   animation-duration: 0.3s;
 }
