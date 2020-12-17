@@ -21,9 +21,9 @@ body {
   font-family: 'Montserrat', sans-serif;
 }
 @keyframes big {
-  44% {font-size: 140%}
-  77% {font-size: 125%}
-  100% {font-size: 130%}
+  44% {font-size: 1.4em}
+  77% {font-size: 1.25em}
+  100% {font-size: 1.3em}
 }
 /*@keyframes other {
   100% {font-size: 1em}
