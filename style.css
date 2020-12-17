@@ -35,6 +35,7 @@ body {
   padding-top: 10%;
   user-select: none;
   font-family: 'Montserrat', sans-serif;
+  background-color: red;
 }
 
 h2:hover {
