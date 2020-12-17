@@ -39,7 +39,7 @@ body {
   animation-duration: 0.3s;
 }
 
-.play:hover {
+.play h1:hover {
   animation-name: test;
   animation-duration: 0.3s;
 }
