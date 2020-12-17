@@ -46,7 +46,7 @@ body {
 }
 .play :hover:after {
   animation-name: small;
-  animation-duration: 0.1s;
+  animation-duration: 5s;
   animation-fill-mode: forwards;
 }
   
