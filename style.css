@@ -25,7 +25,7 @@ body {
   77% {font-size: 1.25em}
   100% {font-size: 1.3em}
 }
-@keyframes small {
+@keyframes bgi {
   100% {font-size: 1em}
 }
 .play {
@@ -44,8 +44,8 @@ body {
   animation-duration: 0.3s;
   animation-fill-mode: forwards;
 }
-.play :hover :after {
-  animation-name: small;
+.play :hover:after {
+  animation-name: bgi;
   animation-duration: 5s;
   animation-fill-mode: forwards;
 }
