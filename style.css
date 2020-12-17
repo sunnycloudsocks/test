@@ -23,7 +23,7 @@ body {
 @keyframes test {
   44% {font-size: 8.4em}
   77% {font-size: 7.5em}
-  100% {font-size: 6em}
+  100% {font-size: 1em}
 }
 .play {
   color: #e2cad7;
