@@ -45,11 +45,11 @@ body {
   animation-duration: 0.3s;
   animation-fill-mode: forwards;
 }
-.play:hover::after {
+.play span:hover:after {
   animation-name: bgi;
   animation-duration: 15s;
   animation-fill-mode: forwards;
-  color: red;
+  color: #ffffff;
 }
   
 
