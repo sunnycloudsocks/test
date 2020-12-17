@@ -26,7 +26,8 @@ body {
   100% {font-size: 1.3em}
 }
 @keyframes bgi {
-  100% {font-size: 1em}
+  from {font-size: 1.3em}
+  to {font-size: 1em}
 }
 .play {
   color: #e2cad7;
@@ -48,6 +49,7 @@ body {
   animation-name: bgi;
   animation-duration: 15s;
   animation-fill-mode: forwards;
+  color: red;
 }
   
 
