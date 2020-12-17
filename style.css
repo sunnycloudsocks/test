@@ -40,8 +40,8 @@ body {
   font-family: 'Montserrat', sans-serif;
  /*animation-name: other;
   animation-duration: 15s;
-  animation-fill-mode: forwards;
-}*/
+  animation-fill-mode: forwards;*/
+}
 .play :hover {
   animation-name: big;
   animation-duration: 0.3s;
