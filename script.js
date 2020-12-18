@@ -1,7 +1,7 @@
 var play = document.getElementByClassName("play");
-document.getElementById("play").style.color = "none";
-play.addEventListener("mouseenter", enlarge);
-function enlarge(){
-  document.getElementByClassName("play").className = "enlargePlay";
-  document.getElementByClassName("play").style.backgroundColor = "red";
+
+play.addEventListener("mouseleave", shrink);
+
+function shrink(){
+  document.getElementByClassName("play").className = "shrinkPlay";
 }
