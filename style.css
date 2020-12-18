@@ -45,7 +45,18 @@ body {
   animation-fill-mode: forwards;
 }
 .shrinkPlay {
-  color: white;
+  color: #e2cad7;
+  font-size: 100px;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  padding-top: 10%;
+  user-select: none;
+  font-family: 'Montserrat', sans-serif;
+  animation-name: small;
+  animation-duration: 5;
+  animation-fill-mode: forwards;
 }
   
 
