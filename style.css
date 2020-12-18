@@ -38,9 +38,6 @@ body {
   padding-top: 10%;
   user-select: none;
   font-family: 'Montserrat', sans-serif;
-  animation-name: shrink;
-  animation-duration: 15s;
-  animation-fill-mode: forwards;
 }
 .play :hover {
   animation-name: big;
