@@ -12,10 +12,11 @@
     <h2 class="play" id="p2"><span>Play</span></h2>
      
     <script>
-    var play = document.getElementByClass("play");
-    play.addEventListener("mouseleave", shrink);
+    //document.getElementById("p2").style.color = "red";
+    //var play = document.getElementByClassName("play");
+    document.getElementById("p2").addEventListener("mouseleave", shrink);
     function shrink(){
-     document.getElementByClass("play").className = "shrinkPlay";
+     document.getElementById("p2").className = "shrinkPlay";
     }
     </script>
     </body>
