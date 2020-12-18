@@ -45,7 +45,7 @@ body {
   animation-fill-mode: forwards;
 }
 .shrinkPlay {
-  color: #e2cad7;
+  color: red;
   font-size: 100px;
   text-align: center;
   margin: 0;
